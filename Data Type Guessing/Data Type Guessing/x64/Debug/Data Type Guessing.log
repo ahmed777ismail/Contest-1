@@ -1,0 +1,3 @@
+﻿  Data Type Guessing.cpp
+C:\Users\Flex Agency\Desktop\Data Type Guessing\Data Type Guessing\Data Type Guessing.cpp(11,18): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Data Type Guessing.vcxproj -> C:\Users\Flex Agency\Desktop\Data Type Guessing\x64\Debug\Data Type Guessing.exe
